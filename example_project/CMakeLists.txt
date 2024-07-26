@@ -1,5 +1,5 @@
 # 필요한 CMake 최소 버전 명시
-cmake_minimium_required(VERSION 3.11)
+cmake_minimum_required(VERSION 3.11)
 
 # 프로젝트 관련 변수 생성
 set(PACKAGE_NAME READABLE_CODE-CPP-CORE_DEVELOPMENT_ENVIRONMENT_SETTING)
